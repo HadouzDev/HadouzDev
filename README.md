@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HadouzDev
-- 👀 I’m interested in  web development,machine learning , data engineering.
+- 👀 I’m specialist in  business intelligence,machine learning , data engineering.
 - 🌱 I’m currently learning machine learning ,data science.
 
 <!---
